@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Material Inputs</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f5f5f5; /* Light gray background color */
+    }
+    h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #333; /* Dark gray text color */
+    }
+    form {
+      max-width: 800px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      background-color: #fff; /* White background color */
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for a raised effect */
+    }
+    label {
+      display: block;
+      margin-bottom: 10px;
+      color: #555; /* Dark gray text color */
+    }
+    input[type="text"] {
+      width: calc(100% - 16px); /* Adjust width for padding */
+      padding: 8px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc; /* Light gray border */
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+    input[type="submit"] {
+      background-color: #4CAF50; /* Green submit button */
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.3s; /* Smooth transition on hover */
+    }
+    input[type="submit"]:hover {
+      background-color: #45a049; /* Darker green on hover */
+    }
+  </style>
+</head>
+<body>
+  <h2>Material Inputs</h2>
+  <form action="/submit" method="post">
+    <label for="density">Density:</label>
+    <input type="text" id="density" name="density">
+    
+    <label for="hardness">Hardness:</label>
+    <input type="text" id="hardness" name="hardness">
+
+    <label for="primary_component">Primary Chemical Componenet:</label>
+    <input type="text" id="primary_component" name="primary_component">
+    
+    <label for="primary_composition">Primary Chemical Composition:</label>
+    <input type="text" id="primary_composition" name="primary_composition">
+    
+    <label for="secondary_composition">Secondary Chemical Composition:</label>
+    <input type="text" id="secondary_composition" name="secondary_composition">
+    
+    <label for="tertiary_composition">Tertiary Chemical Composition:</label>
+    <input type="text" id="tertiary_composition" name="tertiary_composition">
+    
+    <label for="youngs_modulus">Young's Modulus:</label>
+    <input type="text" id="youngs_modulus" name="youngs_modulus">
+    
+    <label for="yield_strength">Yield Strength:</label>
+    <input type="text" id="yield_strength" name="yield_strength">
+    
+    <label for="tensile_strength">Tensile Strength:</label>
+    <input type="text" id="tensile_strength" name="tensile_strength">
+    
+    <label for="elasticity_modulus">Modulus of Elasticity:</label>
+    <input type="text" id="elasticity_modulus" name="elasticity_modulus">
+    
+    <label for="thermal_conductivity">Thermal Conductivity:</label>
+    <input type="text" id="thermal_conductivity" name="thermal_conductivity">
+    
+    <label for="thermal_expansion">Thermal Expansion:</label>
+    <input type="text" id="thermal_expansion" name="thermal_expansion">
+    
+    <label for="specific_heat_capacity">Specific Heat Capacity:</label>
+    <input type="text" id="specific_heat_capacity" name="specific_heat_capacity">
+    
+    <label for="operating_temperature">Operating Temperature:</label>
+    <input type="text" id="operating_temperature" name="operating_temperature">
+
+    <label for="formability">Formability:</label>
+    <input type="text" id="formability" name="formability">
+    
+    <label for="durability">Durability:</label>
+    <input type="text" id="durability" name="durability">
+    
+    <label for="recyclability">Recyclability:</label>
+    <input type="text" id="recyclability" name="recyclability">
+    
+    <input type="submit" value="Submit">
+  </form>
+</body>
+</html>
+
