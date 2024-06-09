@@ -1,0 +1,51 @@
+NAME OF THE COMPOSITE,DENSITY,HARDNESS,PRIMARY CHEMICAL COMPONENT,PRIMARY CHEMICAL COMPOSITION,SECONDARY CHEMICAL COMPOSITION,TERTIARY  CHEMICALCOMPOSITION,YOUNGS MODULUS,YIELD STRENGTH,TENSILE STRENGTH,MODULUS OF ELASTISITY,THERMAL CONDUCTIVITY,FORMABILITY,THERMAL EXPANSION,DURABILITY,RECYCLABILITY,SPECIFIC HEAT CAPACITY,CORROSIVE ENVIRONMENT,OPERATING TEMPERATURE,COST EFFECTIVENESS,STRENGTH TO WEIGHT RATIO,CORROSION RESISTANCE,FATIGUE RESISTANCE
+Aluminum-Silicon Carbide,2.5,150,Al,63.0,37.0,0,300.0,400,500.0,300.0,200,Medium,20.0,High,Complicate,0.9,Medium,300,High,High,High,High
+Aluminum-Boron Carbide,2.67,220,Al,85.0,15.0,0,126.0,400,130.5,126.0,160,Medium,10.0,High,Complicate,0.9,High,400,Medium,High,High,High
+Aluminum-Alumina,3.0,240,Al,98.0,2.0,0,250.0,300,400.0,300.0,30,Complicate,15.0,High,Complicate,0.9,High,600,Medium,Medium,Medium,Medium
+Aluminum-Graphite,2.8,50,Al,94.0,6.0,0,150.0,150,250.0,150.0,200,Complicate,15.0,High,Complicate,0.9,Medium,400,High,Medium,High,High
+Aluminum-Zirconium,3.0,200,Al,94.5,5.5,0,120.0,600,800.0,110.0,120,Medium,18.0,High,Complicate,0.9,High,400,Medium,Medium,Medium,Medium
+Aluminum-Silicon,2.7,70,Al,88.0,12.0,0,120.0,400,450.0,120.0,220,Low,21.0,High,Complicate,0.9,Medium,300,High,Medium,Medium,Medium
+Aluminum-Titanium Carbide,4.5,320,Al,42.0,33.0,25,300.0,1200,1500.0,300.0,280,Low,9.5,High,Complicate,0.9,High,600,Medium,High,High,High
+Aluminum-Magnesium ,2.5,100,Al,86.0,10.0,4,80.0,400,450.0,70.0,180,Low,25.0,High,Medium,0.9,Medium,200,High,High,High,Medium
+Nickel-Aluminum,8.9,150,Ni,70.0,29.0,1,200.0,200,400.0,200.0,90,Low,13.6,Medium,Complicate,0.4,High,600,Medium,High,High,High
+Nickel-Silicon Carbide,6.25,250,Ni,90.0,10.0,0,360.0,1000,1200.0,380.0,250,Low,12.8,Medium,Possible,0.4,High,600,Medium,High,Medium,High
+Nickel-Graphite,7.2,100,Ni,60.0,40.0,0,180.0,200,200.0,180.0,500,Low,11.0,Medium,Complicate,0.4,Medium,400,Medium,Medium,High,Medium
+Nickel-Boron,7.45,500,Ni,93.0,7.0,0,300.0,1200,1500.0,400.0,60,Low,11.0,High,Complicate,0.4,High,600,Medium,Medium,High,High
+Nickel-Tungsten,18.85,800,Ni,50.0,45.0,5,380.0,1500,2000.0,380.0,70,Low,11.0,High,Complicate,0.4,High,600,Low,Medium,High,High
+Nickel-Copper,8.9,160,Ni,85.0,13.0,2,180.0,500,700.0,180.0,300,Low,16.0,High,Complicate,0.4,High,400,Medium,High,High,High
+Nickel-Titanium,6.45,150,Ni,55.0,45.0,0,83.0,800,1500.0,83.0,20,High,6.6,High,Medium,0.4,High,600,Medium,High,High,High
+Nickel-Molybdenum,9.2,250,Ni,70.0,30.0,0,210.0,600,1000.0,230.0,80,Medium,15.0,High,Medium,0.4,High,600,Medium,High,High,High
+Nickel-Zirconium,8.196,200,Ni,95.0,3.0,2,169.7,197,195.0,169.37,79,Medium,11.09,Medium,Medium,0.4,High,600,Medium,Medium,High,Medium
+Nickel-Cobalt,8.9,300,Ni,85.0,15.0,0,210.0,300,350.0,210.0,70,Medium,13.0,High,Medium,0.4,High,600,Medium,Medium,High,High
+Magnesium-Silicon Carbide,1.9,100,Mg,90.0,10.0,0,60.0,180,250.0,60.0,200,Medium,26.0,Medium,Medium,1.0,Medium,200,High,High,Medium,Medium
+Magnesium-Alumina,2.2,120,Mg,90.0,10.0,0,70.0,190,260.0,70.0,150,Medium,25.0,High,Medium,1.0,Medium,200,High,High,Medium,Medium
+Magnesium-Boron ,2.4,90,Mg,90.0,10.0,0,50.0,150,200.0,50.0,100,Low,24.0,Medium,Medium,1.0,Medium,200,High,High,Medium,Medium
+Magnesium-Aluminum,1.8,70,Mg,90.0,10.0,0,45.0,150,220.0,45.0,155,High,24.0,Medium,High,1.0,Medium,200,High,High,Medium,Medium
+Magnesium-Zirconium,1.8,110,Mg,90.0,10.0,0,50.0,160,220.0,50.0,145,Medium,23.0,High,Medium,1.0,Medium,200,Medium,High,Medium,Medium
+Magnesium-Graphene,1.7,120,Mg,95.0,5.0,0,60.0,180,250.0,60.0,210,High,26.0,High,Medium,1.0,Medium,200,Medium,High,Medium,Medium
+Magnesium-Nano Particles,1.7,100,Mg,95.0,5.0,0,65.0,190,260.0,65.0,180,Medium,25.0,Medium,Medium,1.0,Medium,200,Medium,High,Medium,Medium
+Magnesium-Carbon Nanotubes,1.75,130,Mg,98.0,2.0,0,70.0,200,280.0,70.0,200,Medium,25.0,High,Medium,1.0,Medium,200,Medium,High,Medium,Medium
+Titanium-Carbon,4.9,320,Ti,90.0,10.0,0,105.0,230,300.0,105.0,25,Medium,9.0,High,Medium,0.52,High,600,Medium,Medium,High,High
+Titanium-Silicon,4.5,300,Ti,90.0,10.0,0,110.0,240,320.0,110.0,20,Medium,10.0,High,Medium,0.52,High,600,Medium,Medium,High,High
+Titanium-Alumina,4.5,350,Ti,90.0,10.0,0,100.0,210,290.0,80.0,180,Medium,23.0,High,Medium,0.52,High,600,Medium,Medium,High,High
+Titanium-Graphite,4.5,280,Ti,90.0,10.0,0,110.0,240,320.0,110.0,30,Medium,9.0,High,Medium,0.52,High,600,Medium,Medium,High,High
+Titanium-Boron,4.5,400,Ti,90.0,10.0,0,110.0,250,330.0,110.0,22,Medium,8.0,High,Medium,0.52,High,600,Medium,Medium,High,High
+Titanium-Aluminum,4.43,250,Ti,90.0,10.0,0,115.0,230,300.0,115.0,20,Medium,8.6,High,High,0.52,High,600,Medium,Medium,High,High
+Titanium-Zirconium,4.55,350,Ti,90.0,10.0,0,110.0,260,340.0,110.0,17,Medium,9.0,High,Medium,0.52,High,600,Medium,Medium,High,High
+Titanium-Nickel,6.5,320,Ti,90.0,10.0,0,120.0,300,400.0,120.0,20,Medium,10.0,High,Medium,0.52,High,600,Medium,Medium,High,High
+Titanium-Copper,5.0,290,Ti,90.0,10.0,0,110.0,250,320.0,110.0,22,Medium,9.5,High,Medium,0.52,High,600,Medium,High,High,High
+Titanium-Niobium,5.0,310,Ti,90.0,10.0,0,105.0,200,300.0,15.0,25,Medium,8.0,High,Medium,0.52,High,600,Medium,High,High,High
+Titanium-Molybdenum,5.0,330,Ti,90.0,10.0,0,120.0,120,280.0,370.0,16,Medium,8.5,High,Medium,0.52,High,600,Medium,High,High,High
+Titanium-Vanadium,4.5,320,Ti,90.0,10.0,0,120.0,250,320.0,120.0,25,Medium,9.2,High,Medium,0.52,High,600,Medium,High,High,High
+Titanium-Chromium,4.7,340,Ti,90.0,10.0,0,125.0,260,340.0,125.0,22,Medium,9.0,High,Medium,0.52,High,600,Medium,High,High,High
+Titanium-Tantalum,7.0,360,Ti,90.0,10.0,0,150.0,300,400.0,150.0,57,Medium,6.5,High,Medium,0.52,High,600,Medium,High,High,High
+Titanium-Magnesium,4.3,280,Ti,90.0,10.0,0,90.0,160,220.0,90.0,30,Medium,12.0,Medium,High,0.52,High,600,Medium,High,High,High
+Titanium-Zirconium-Nickel,5.0,310,Ti,85.0,10.0,5,130.0,280,360.0,130.0,18,High,8.0,High,Medium,0.52,High,600,Medium,High,High,High
+Titanium-Silicon ,4.5,300,Ti,90.0,10.0,0,110.0,240,320.0,110.0,20,Medium,10.0,High,Medium,0.52,High,600,Medium,High,High,High
+Titanium-Carbon Nanotubes ,4.6,350,Ti,98.0,2.0,0,130.0,280,370.0,130.0,35,Medium,9.0,High,Medium,0.52,High,600,Medium,High,High,High
+Titanium-Nano Particles,4.5,330,Ti,95.0,5.0,0,120.0,250,330.0,120.0,25,Medium,9.0,High,Medium,0.52,High,600,Medium,High,High,High
+Palladium-Aluminum,12.0,150,Pd,90.0,10.0,0,140.0,230,320.0,140.0,75,High,12.0,High,High,0.244,High,700,Low,Medium,High,Medium
+Palladium-Silicon Carbide,12.1,160,Pd,90.0,10.0,0,200.0,250,400.0,200.0,100,Medium,13.0,High,Medium,0.244,High,700,Low,Medium,High,Medium
+Palladium-Carbon,12.0,155,Pd,90.0,10.0,0,180.0,250,330.0,180.0,75,Medium,13.0,High,Medium,0.244,High,700,Low,Medium,High,Medium
+Palladium-Titanium,11.6,150,Pd,90.0,10.0,0,130.0,220,300.0,130.0,70,High,11.0,High,Medium,0.244,High,700,Low,Medium,High,Medium
+Palladium-Nickel,11.8,160,Pd,90.0,10.0,0,140.0,230,320.0,140.0,80,Medium,12.0,High,Medium,0.244,High,700,Low,Medium,High,Medium
